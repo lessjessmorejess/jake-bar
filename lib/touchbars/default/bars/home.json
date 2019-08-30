@@ -5,33 +5,10 @@
       "action": "escapeKey"
    },
    "items": [
-      {
-         "type": "button",
-         "icon": "compose",
-         "action": "goClip"
-      },
-      {
-         "type": "button",
-         "icon": "color",
-         "action": "goColor"
-      },
-      {
-         "type": "spacer"
-      },
-      {
-         "type": "button",
-         "label": ":]",
-         "action": "goMadness"
-      },
-      {
-         "type": "button",
-         "icon" : "console",
-         "action": "openDevTools"
-      },
-      {
-         "type": "button",
-         "icon": "github",
-         "action": "openGitTab"
-      }
-   ]
-}
+         {
+            "type": "button",
+            "icon": "jake",
+            "action": "goJake"
+         }
+      ]
+   }

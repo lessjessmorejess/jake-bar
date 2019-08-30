@@ -1,9 +1,9 @@
 {
   "_from": "https://www.atom.io/api/packages/atoms-touchbar/versions/0.4.0/tarball",
-  "_id": "atoms-touchbar@0.4.0",
+  "_id": "atoms-jakebar@0.1.0",
   "_inBundle": false,
   "_integrity": "sha512-4bJNRP5PLGiNK0QK8EH+UFxFenCSn685y5tKhDHs12QDfRK9XCSs1YKf7ZClQItF5B55Nwiopqz46diULUd0sw==",
-  "_location": "/atoms-touchbar",
+  "_location": "/atoms-jakebar",
   "_phantomChildren": {},
   "_requested": {
     "type": "remote",
@@ -26,24 +26,28 @@
   "bundleDependencies": false,
   "dependencies": {},
   "deprecated": false,
-  "description": "Atoms Touchbar Package. Multiclipboard, Colorpicker, and Particles",
+  "description": "Atoms jakebar Package. Get Jake the Dog whenever you want",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "homepage": "https://github.com/sean-codes/atoms-touchbar#readme",
+  "homepage": "https://github.com/whalemc/atoms-jakebar#readme",
   "keywords": [
     "atom-touchbar",
     "touchbar",
     "touch bar",
     "colorpicker",
-    "atom touchbar"
+    "atom touchbar",
+    "jake the dog",
+    "jake",
+    "dog",
+    "adventure time"
   ],
   "license": "MIT",
   "main": "./lib/atom-touchbar",
-  "name": "atoms-touchbar",
+  "name": "atoms-jakebar",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sean-codes/atoms-touchbar.git"
+    "url": "git+https://github.com/whalemc/atoms-jakebar.git"
   },
-  "version": "0.4.0"
+  "version": "0.1.0"
 }
