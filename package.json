@@ -1,0 +1,49 @@
+{
+  "_from": "https://www.atom.io/api/packages/atoms-touchbar/versions/0.4.0/tarball",
+  "_id": "atoms-touchbar@0.4.0",
+  "_inBundle": false,
+  "_integrity": "sha512-4bJNRP5PLGiNK0QK8EH+UFxFenCSn685y5tKhDHs12QDfRK9XCSs1YKf7ZClQItF5B55Nwiopqz46diULUd0sw==",
+  "_location": "/atoms-touchbar",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/atoms-touchbar/versions/0.4.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/atoms-touchbar/versions/0.4.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/atoms-touchbar/versions/0.4.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/atoms-touchbar/versions/0.4.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/atoms-touchbar/versions/0.4.0/tarball",
+  "_shasum": "bbc713ba0ac12d147bbf17769c24a8ef8fbda299",
+  "_spec": "https://www.atom.io/api/packages/atoms-touchbar/versions/0.4.0/tarball",
+  "_where": "/private/var/folders/b3/3fm0zw3d7cq4l2pdm7ylyrj00000gp/T/apm-install-dir-119730-61532-1ruimbc.as49",
+  "bugs": {
+    "url": "https://github.com/sean-codes/atoms-touchbar/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Atoms Touchbar Package. Multiclipboard, Colorpicker, and Particles",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/sean-codes/atoms-touchbar#readme",
+  "keywords": [
+    "atom-touchbar",
+    "touchbar",
+    "touch bar",
+    "colorpicker",
+    "atom touchbar"
+  ],
+  "license": "MIT",
+  "main": "./lib/atom-touchbar",
+  "name": "atoms-touchbar",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sean-codes/atoms-touchbar.git"
+  },
+  "version": "0.4.0"
+}
