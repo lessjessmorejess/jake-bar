@@ -41,7 +41,7 @@
     "dog",
     "adventure time",
     "finn",
-    "fun",
+    "fun"
   ],
   "license": "MIT",
   "main": "./lib/atom-touchbar",
