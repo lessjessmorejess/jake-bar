@@ -1,6 +1,6 @@
 {
   "name": "jake-bar",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Replace your touchbar with Jake the dog! Get him whenever you want!",
   "main": "./lib/atom-touchbar",
   "directories": {
