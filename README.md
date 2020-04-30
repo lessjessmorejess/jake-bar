@@ -6,5 +6,5 @@ to help boost your mood and productivity. Comes with TWO (2) different modes!
 ### Mode ONE (1): Smol
 ![smol](assets/smol.png)
 
-### Mode TWO (2): beeg
+### Mode TWO (2): Beeg
 ![beeg](assets/beeg.png)
